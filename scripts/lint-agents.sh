@@ -22,6 +22,7 @@ AGENT_DIRS=(
   finance
   game-development
   gis
+  gxp-manufacturing
   healthcare
   marketing
   paid-media
