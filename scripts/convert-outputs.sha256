@@ -1,5 +1,6 @@
 # convert-outputs manifest v2 — one line per agent (its output across every tool), one per tool
 # (non-agent files), one per contract. Platform-neutral hashes. Regenerate: scripts/test-convert-outputs.sh --update
+agent	365-activity-reply-assistant	8f36e9b5e5b0a8cac49f9f16a714d678d896927bd0d36d8d90d10c8ce96647c7
 agent	3d-scene-developer	cb46371b7ee6fa5fabfc5da1094a2b1a552e4adc1a76fcd44b604c2e0c9fed27
 agent	accessibility-auditor	f797a3000f39d0c91a1722c5e4004a6db7f1d665fd069ea9e8c16be32c9c8a13
 agent	account-strategist	474bd07c750f87c202f214dab515ab7fb9c82394c62b9d5752902d5eb7fbd8a2
@@ -123,7 +124,6 @@ agent	hr-onboarding	55ec220679bc78de1f3b094b643534077d1beaf80f98b263145caa97f461
 agent	identity-access-engineer	890124719ac27c9744c366bf78814c506a166c128f1d8f57c29edb907712bee3
 agent	identity-graph-operator	727057cb5734899529d00345dbecda5e3b201ff2c3535a96b1ebae518b9df58d
 agent	image-prompt-engineer	6efdec2f800dc7182db7380c6b9981591893d78808ddbb2d12b6b4991af6351e
-agent	inbox-triage-reply-drafter	cb21ef0b222f954c71e7d896ec45e5863e7f0493255ab911ea8c0e7a9676147a
 agent	incident-responder	22680b884039638e991b64228dd6354e0617acd4b133bfed797ab157974fb521
 agent	incident-response-commander	35f658bd940733bec820bee33ebdab0b6857bb58784077477995c64f5ad414a1
 agent	inclusive-visuals-specialist	1e7b2e3beccf8feaa43f1bb8323acbaf5b9a21905f2bf6e7de787d89a3140d84
